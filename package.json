@@ -1,6 +1,6 @@
 {
   "name": "json-typed",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "description": "Wraps JSON to provide serialization and restoration with original object prototypes",
   "main": "./lib/json-typed",
   "scripts": {
